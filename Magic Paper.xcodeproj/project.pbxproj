@@ -13,6 +13,8 @@
 		BC0E324F24FD85DA00A11342 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0E324D24FD85DA00A11342 /* Main.storyboard */; };
 		BC0E325124FD85E300A11342 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC0E325024FD85E300A11342 /* Assets.xcassets */; };
 		BC0E325424FD85E400A11342 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0E325224FD85E400A11342 /* LaunchScreen.storyboard */; };
+		BCE46D4524FD86BD003002BD /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BCE46D4424FD86BD003002BD /* harrypotter.mp4 */; };
+		BCE46D4724FD8AF2003002BD /* daily prophet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BCE46D4624FD8AF2003002BD /* daily prophet.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		BC0E325024FD85E300A11342 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC0E325324FD85E400A11342 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC0E325524FD85E400A11342 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCE46D4424FD86BD003002BD /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
+		BCE46D4624FD8AF2003002BD /* daily prophet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "daily prophet.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		BC0E324624FD85DA00A11342 /* Magic Paper */ = {
 			isa = PBXGroup;
 			children = (
+				BCE46D4624FD8AF2003002BD /* daily prophet.jpg */,
+				BCE46D4424FD86BD003002BD /* harrypotter.mp4 */,
 				BC0E324724FD85DA00A11342 /* AppDelegate.swift */,
 				BC0E324924FD85DA00A11342 /* art.scnassets */,
 				BC0E324B24FD85DA00A11342 /* ViewController.swift */,
@@ -127,8 +133,10 @@
 			files = (
 				BC0E324A24FD85DA00A11342 /* art.scnassets in Resources */,
 				BC0E325424FD85E400A11342 /* LaunchScreen.storyboard in Resources */,
+				BCE46D4524FD86BD003002BD /* harrypotter.mp4 in Resources */,
 				BC0E325124FD85E300A11342 /* Assets.xcassets in Resources */,
 				BC0E324F24FD85DA00A11342 /* Main.storyboard in Resources */,
+				BCE46D4724FD8AF2003002BD /* daily prophet.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
